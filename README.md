@@ -2,7 +2,7 @@
 
 ## 1. Sobre o projeto
 
-É um projeto desenvolvido com o uso da ferramenta Microsoft Excel para realizar projeções de investimentos, utilizando fórmulas financeiras e perfis de investidores.
+É um projeto desenvolvido com o uso da ferramenta Microsoft Excel para realizar projeções de investimentos.
 
 ## 2. Perguntas que a ferramenta responde
 
