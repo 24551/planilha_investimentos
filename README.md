@@ -41,7 +41,6 @@ Durante o desenvolvimento da atividade, foram realizadas as seguintes modificaç
 ## 7. Ferramentas utilizadas
 
 - Microsoft Excel
-- GitHub
 
 ## 8. Como acessar a planilha
 
