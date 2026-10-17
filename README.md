@@ -36,7 +36,7 @@ Durante o desenvolvimento da atividade, foram realizadas as seguintes modificaç
 - Alteração da logo; 
 - Mudança de cores;
 - Foi ocultada a aba 2; e
-- Adicionado duas caixas resumos da projeção final dos investimentos mês e o ano.
+- Adicionado duas caixas com o valor da projeção final dos investimentos por mês e no ano.
 
 ## 7. Ferramentas utilizadas
 
