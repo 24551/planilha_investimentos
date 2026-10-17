@@ -20,11 +20,11 @@ Quanto de 2 a 30 anos?
 
 **Função VF (Valor Futuro)**
 
-A função VF é utilizada para calcular o valor futuro de um investimento, considerando informações como taxa de juros, número de períodos, pagamentos periódicos e valor inicial.
+A função VF é utilizada para projetar o valor futuro de um investimento.
 
 **Função PROCV**
 
-A função PROCV permite localizar informações em uma tabela de referência, facilitando encontrar valores na planilha.
+Com a função PROCV é possível localizar uma informação em uma tabela de referência.
 
 ## 4. Percentuais de cada perfil
 
