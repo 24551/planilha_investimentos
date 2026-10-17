@@ -2,11 +2,11 @@
 
 ## 1. Sobre o projeto
 
-Este projeto apresenta uma ferramenta desenvolvida no Microsoft Excel para apoiar a análise de investimentos, utilizando fórmulas financeiras e diferentes perfis de investidores.
+É um projeto desenvolvido com o uso da ferramenta Microsoft Excel para realizar projeções de investimentos, utilizando fórmulas financeiras e perfis de investidores.
 
 ## 2. Perguntas que a ferramenta responde
 
-A planilha foi desenvolvida para auxiliar o usuário em projeções de investimentos futuros.
+A planilha foi desenvolvida para auxiliar o usuário em projeções de investimentos.
 
 **Perguntas respondidas pela ferramenta:**
 Quanto investir por mês?
@@ -28,7 +28,7 @@ Com a função PROCV é possível localizar uma informação em uma tabela de re
 
 ## 4. Percentuais de cada perfil
 
-A ferramenta considera diferentes perfis de investidores, que podem apresentar distribuições distintas de recursos. 
+A ferramenta apresenta diferentes perfis de investidores, que podem escolher distribuições distintas para o seu investimento. 
 
 ## 6. Alterações em relação à ferramenta do Expert
 
